@@ -118,7 +118,7 @@ _go_image_repos()
 go_repository(
     name = "com_google_cloud_go",
     importpath = "cloud.google.com/go",
-    tag = "v0.25.0",
+    tag = "v0.43.0",
 )
 
 go_repository(
